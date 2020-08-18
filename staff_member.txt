@@ -1,0 +1,2 @@
+c1 abdullah manzoor male 34 Ialamic E1 3
+c2 afia habib female 23 englis E2 4
